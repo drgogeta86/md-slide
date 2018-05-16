@@ -1,5 +1,10 @@
 # md-slide
 
+Write your presentation in MarkDown language, then use this docker to
+present it.
+
+It is based on https://github.com/hakimel/reveal.js
+
 ## simple use
 
 ```
