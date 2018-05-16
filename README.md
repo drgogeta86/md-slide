@@ -138,6 +138,7 @@ function fancyAlert(arg) {
   }
 }
 ```
+
 ```
 ```javascript
 function fancyAlert(arg) {
@@ -145,7 +146,7 @@ function fancyAlert(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
+` ` `
 ```
 
 ## Task Lists
